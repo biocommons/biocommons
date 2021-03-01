@@ -5,6 +5,8 @@ collective](https://youtu.be/ZtYU87QNjPw?t=60) that builds and shares
 open source tools for bioinformatics, mostly written in Python.
 
 This page provides an introduction to packages and communications.
+(Yes, we should have a better web page. In fact it's literally [issue
+#1](https://github.com/biocommons/biocommons/issues/1).)
 
 
 # Packages
