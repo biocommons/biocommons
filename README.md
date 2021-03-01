@@ -50,6 +50,10 @@ a Python interface.
 ## Slack
 
 * [slack workspace](https://biocommons.slack.com/)
+**Note: Due to limitations with Slack, users must be invited manually.
+All users who subscribe to any of the mailing lists will be invited to
+Slack approximately weekly.**
+
 
 ## Documents
 
