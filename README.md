@@ -28,8 +28,13 @@ non-redundant, compressed, journalled, file-based storage for biological sequenc
 OpenAPI-based REST interface to biological sequences and sequence metadata
 
 ## [UTA](https://github.com/biocommons/uta)
-Universal Transcript Archive: comprehensive genome-transcript alignments; multiple transcript sources, versions, and alignment methods; available as a docker image
+Universal Transcript Archive: comprehensive genome-transcript
+alignments; multiple transcript sources, versions, and alignment
+methods; available as a docker image
 
+## [uta-align](https://github.com/biocommons/uta-align)
+C-based Needleman-Wunsch and Smith-Waterman alignment algorithms with
+a Python interface.
 
 
 # Community
