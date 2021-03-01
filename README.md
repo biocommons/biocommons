@@ -44,10 +44,20 @@ a Python interface.
 ## Mailing Lists
 
 * [biocommons-announce](https://groups.google.com/g/biocommons-announce)
-* [biocommons-devops](https://groups.google.com/g/biocommons-devops)
+  Low-volume, read-only announcements of new releases and other information.
+
 * [biocommons-devs](https://groups.google.com/g/biocommons-devs)
+  List for developers of biocommons tools.
+
 * [biocommons-users](https://groups.google.com/g/biocommons-users)
+  List for users to ask (and answer!) questions about tools.
+
 * [hgvs-discuss](https://groups.google.com/g/hgvs-discuss)
+  List to discuss hgvs (the package) and HGVS (the recommendations)
+
+* [biocommons-devops](https://groups.google.com/g/biocommons-devops)
+  High-volume list with automated messages from ci/cd bots.
+
 
 ## Slack
 
