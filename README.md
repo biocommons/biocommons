@@ -9,20 +9,27 @@ This page provides an introduction to packages and communications.
 
 # Packages
 
-## [hgvs](https://github.com/biocommons/hgvs)
-Python library to parse, format, validate, normalize, and map sequence variants.
-
-## [SeqRepo](https://github.com/biocommons/biocommons.seqrepo)
-non-redundant, compressed, journalled, file-based storage for biological sequences
-
-## [UTA](https://github.com/biocommons/uta)
-Universal Transcript Archive: comprehensive genome-transcript alignments; multiple transcript sources, versions, and alignment methods; available as a docker image
+## [anyvar](https://github.com/biocommons/anyvar)
+[in development] Proof-of-Concept variation translation, validation, and registration service
 
 ## [bioutils](https://github.com/biocommons/bioutils)
 provides common tools and lookup tables used primarily by the hgvs and uta packages
 
 ## [eutils](https://github.com/biocommons/eutils)
 simplified searching, fetching, and parsing records from NCBI using their E-utilities interface
+
+## [hgvs](https://github.com/biocommons/hgvs)
+Python library to parse, format, validate, normalize, and map sequence variants.
+
+## [SeqRepo](https://github.com/biocommons/biocommons.seqrepo)
+non-redundant, compressed, journalled, file-based storage for biological sequences
+
+## [seqreo-rest-service](https://github.com/biocommons/seqrepo-rest-service)
+OpenAPI-based REST interface to biological sequences and sequence metadata
+
+## [UTA](https://github.com/biocommons/uta)
+Universal Transcript Archive: comprehensive genome-transcript alignments; multiple transcript sources, versions, and alignment methods; available as a docker image
+
 
 
 # Community
